@@ -1,4 +1,4 @@
 # hello-world
 demo - my first repository
 
-happy everyday!
+happy every night!
